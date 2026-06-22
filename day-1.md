@@ -3,7 +3,7 @@
 ## Morning Planning
 - Check GitHub Skills exercise
 - Learn Markdown basics
-- Visit [GitHub Skills](https://skills.github.com)
+- Visit GitHub Skills
 
 ## Review
 - Revise what I learned
