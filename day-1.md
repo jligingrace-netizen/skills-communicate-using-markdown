@@ -1,9 +1,9 @@
 # Daily Learning
 
 ## Morning Planning
-- **Check GitHub Skills exercise**
-- *Learn Markdown basics*
-- Complete Step 3
+- Check GitHub Skills exercise
+- Learn Markdown basics
+- Visit GitHub Skills
 
 ## Review
 - Revise what I learned
